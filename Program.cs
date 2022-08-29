@@ -33,7 +33,7 @@ namespace remove
                                                           //är string som man tar bort efter. All string mellan 3-5 finns alltså kvar.
             Console.WriteLine(firstCharacter); // skriv ut resterande av string som är kvar
 
-            Console.WriteLine("försök");
+            
             Console.ReadKey(true);
         }
         
