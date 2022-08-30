@@ -34,7 +34,7 @@ namespace remove
             Console.WriteLine(firstCharacter); // skriv ut resterande av string som är kvar
 
             
-            Console.ReadKey(true);
+            Console.ReadKey(true);//skriver till en kommentar
         }
         
     }
